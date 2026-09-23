@@ -1,3 +1,3 @@
-#Class Project for UIUC CS598EKN
-##Abstract
+# Class Project for UIUC CS598EKN
+## Abstract
 Human gesture recognition is essential for intuitive and contact-less human-computer interaction while preserving user privacy and operating well across different lighting conditions. However, radar-based gesture recognition faces two major challenges: the scarcity of large, high-quality public datasets and the significant performance degradation caused by environmental variations, especially in long-range, and complex environment with multipath interference. In this paper, we propose a gesture recognition frame-work that combines supervised contrastive learning (SupCon) with physically-motivated radar data augmentation. We evaluate our approach using the open-source DI-Gesture dataset and additional real-world data collected at varying distances. Experimental results demonstrate that our method consistently improves recognition robustness and outperforms the baseline by up to 3.36% across cross-environment and cross-location settings, highlighting its potential for reliable deployment in diverse real-world scenarios.
